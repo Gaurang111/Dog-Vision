@@ -1,0 +1,18 @@
+https://colab.research.google.com/drive/1ubVzu0h9GYa1TP6XJ_NGL3CgsSgeOEGN?usp=sharing
+
+
+=> dog-breed-identification.zip(dataset) contains 
+     directorys :
+       1. train 
+       2. test
+
+     files :
+       1. labels.csv
+       2. sample_sunmission.csv
+
+=> dog-vision.ipnb  is google colab file for pyhton notebook
+
+=> directorys: logs, models, My dog(saint_bernard) are created to store/save in-project data/models
+=> files: full_model_prediction.csv, preds_array.csv are also created to store/save in-project data.
+
+    
