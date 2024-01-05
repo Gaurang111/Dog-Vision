@@ -29,7 +29,7 @@ The evaluation involves creating a file with prediction probabilities for each d
 11. Training the model on the full dataset.
 12. Making predictions on the test dataset and preparing the predictions for submission to Kaggle.
 13. Saving the predictions to a CSV file for submission.
-14. Making predictions on custom images.
+14. Making predictions on my dog image.
 
 The notebook provides a comprehensive walkthrough of building, training, and evaluating a deep learning model for dog breed classification. Additionally, it demonstrates how to make predictions on new data and prepares the results for submission to a Kaggle competition.
 
