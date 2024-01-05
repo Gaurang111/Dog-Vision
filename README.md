@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaurang111/Dog-Vision/blob/main/dog_vision.ipynb)
-# End-to-End Multi-class Dog Breed Classification
+# Multi-class Dog Breed Classification
 
 <img src="img/1.jpeg" width=400><img src="img/2.jpeg" width=400>
 <img src="img/3.jpeg" width=400><img src="img/4.jpeg" width=400>
